@@ -5,3 +5,5 @@ in one terminal npm install
 node .\server.js
 and in seconde terminall npm install
 npm start
+https://nodejs.org/en/download/current/
+https://www.mongodb.com/try/download/community
