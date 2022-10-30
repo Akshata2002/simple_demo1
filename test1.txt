@@ -1,2 +1,7 @@
 my name is akshata patil
 https://github.com/harounchebbi/Mern-Stack-Crud-App
+open to terminal
+in one terminal npm install
+node .\server.js
+and in seconde terminall npm install
+npm start
